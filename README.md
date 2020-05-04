@@ -2,5 +2,5 @@
 main()
 {
 cout<<"hello world!"<<endl;
-exit o;
+exit 0;
 }
